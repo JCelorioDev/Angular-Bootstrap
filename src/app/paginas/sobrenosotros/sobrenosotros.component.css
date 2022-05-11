@@ -1,0 +1,23 @@
+.contenedor{
+    position: relative;
+    left: 100px;
+    top: -50px;
+}
+
+.card2{
+    position: relative;
+    left: 400px;
+    top: -400px;
+}
+
+.card3{
+    position: relative;
+    top: -750px;
+    left: 730px;
+}
+
+.card4{
+    position: relative;
+    top: -700px;
+    left: -30px;
+}
