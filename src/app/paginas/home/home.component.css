@@ -2,3 +2,60 @@
     position: relative;
     left: 500px;
 }
+
+.card{
+    position: relative;
+    left: 800px;
+    top: -70px;
+}
+
+.contenedor{
+    position: relative;
+    left: 100px;
+    top: -300px;
+}
+
+.contenedor__h4::before{
+    content: "\1F525";
+}
+.contenedor__h4::after{
+    content: "\1F525";
+}
+
+.contenedor__otrocontenedor{
+    position: relative;
+    top: 50px;
+}
+
+.contenedor__otrocontenedor h4{
+    font-weight: 900;
+}
+
+.contenedor__p{
+    position: relative;
+    top: 65px;
+    font-weight: 900;
+}
+
+.contenedor h1{
+    font-weight: 900;
+    color: rgb(33, 0, 91);
+}
+
+.contenedor__otrocontenedor span{
+    color: chartreuse;
+    font-weight: 900;
+}
+
+.contenedor__texto{
+    font-weight: 900;
+    position: relative;
+    left: -20px;
+}
+
+.contenedor__otrocontenedor span::before{
+    content: '\1F4B5';
+}
+.contenedor__otrocontenedor span::after{
+    content: '\1F4B5';
+}
