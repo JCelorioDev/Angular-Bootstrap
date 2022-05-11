@@ -1,3 +1,25 @@
 .nav-link span{
     color: yellow;
 }
+
+.nav2-link span{
+    color: rgb(255, 166, 0);
+}
+
+.navbar-nav a{
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+.navbar2{
+    position: relative;
+    top: 201px;
+    left: -230px;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    width: 500px;
+    height: 100px;
+}
